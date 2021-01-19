@@ -1,5 +1,5 @@
 # ab_covid19
-
+ Updated with data up to January 18, 2021
 ## 7 Day Bin
 
 #### Linear Scale
